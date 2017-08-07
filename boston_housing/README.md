@@ -2,7 +2,6 @@
 # Model Evaluation and Validation
 ## Project: Predicting Boston Housing Prices
 
-
 ### Install
 
 This project requires **Python 2.7**(if you complete this project in Python 3.x, you will have to update the code in various places including all relevant print statements) and the following Python libraries installed:
@@ -45,3 +44,7 @@ The modified Boston housing dataset consists of 489 data points, with each datap
 
 **Target Variable**
 4. `MEDV`: median value of owner-occupied homes
+
+### References
+http://machinelearningmastery.com/gentle-introduction-to-the-bias-variance-trade-off-in-machine-learning/
+http://scott.fortmann-roe.com/docs/BiasVariance.html
