@@ -190,6 +190,6 @@ I'll follow the general machine learning workflow while working on the solution.
 2. https://www.analyticsvidhya.com/blog/2016/02/7-important-model-evaluation-error-metrics/
 3. https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6
 4. Smith-Morris, Carolyn. "Diabetes Among the Pima: Stories of Survival". Summary of the above book - https://muse.jhu.edu/article/450458/summary
-
+5. My MLND assignment: http://htmlpreview.github.io/?https://github.com/manas-mukherjee/machine-learning-nanodegree/blob/master/SupervisedLearning/finding_donors/report.html
 
 -----------
