@@ -5,7 +5,7 @@
 ### Date:June 20th, 2018
 
 ## NoteBook
-http://htmlpreview.github.io/?https://github.com/manas-mukherjee/machine-learning-nanodegree/tree/master/Capstone/diabetes/diabetes.html
+http://htmlpreview.github.io/?https://github.com/manas-mukherjee/MLTools/blob/master/src/mlnd-projects/Capstone/diabetes/diabetes.html
 
 ## Reports
 https://github.com/manas-mukherjee/machine-learning-nanodegree/tree/master/Capstone/diabetes/project_report/report.pdf
