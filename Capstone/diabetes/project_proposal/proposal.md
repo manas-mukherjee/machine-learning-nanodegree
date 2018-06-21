@@ -9,11 +9,10 @@ Date:May 29th, 2018
 
 ### Domain Background
 
-Diabetes is a leading chronic disease that affects more than 30 million people in the United States.
-The economic impact of diabetes is estimated at $105 billion, according to a study published in 2016 and led by researchers from Imperial College London,
-Harvard T.H. Chan School of Public Health and the World Health Organization.
+Diabetes is a major chronic disease that affects more than 30 million people in the United States.
+The American Diabetes Association released new research on March 22, 2018 estimating the total costs of diagnosed diabetes have risen to $327 billion in 2017 from $245 billion in 2012, when the cost was last examined.
 
-It is a chronic disease that occurs either when the pancreas does not produce enough insulin or when the body cannot effectively use the insulin it produces.
+It occurs either when the pancreas does not produce enough insulin or when the body cannot effectively use the insulin it produces.
 Insulin is a hormone that regulates blood sugar. Hyperglycaemia, or raised blood sugar, is a common effect of uncontrolled diabetes and
 over time leads to serious damage to many of the body's systems, especially the nerves and blood vessels.
 
