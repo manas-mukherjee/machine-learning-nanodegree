@@ -35,8 +35,9 @@ Quick Reference
 Getting Started
 ---------------
 
-This sample uses the Gradle build system. To build this project, use the
-"gradlew build" command or use "Import Project" in Android Studio.
+To start the notebook, we can run the following command from the root folder.
+
+jupyter notebook diabetes.ipynb
 
 
 Support
