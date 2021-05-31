@@ -1,6 +1,8 @@
-1. Introduction to deployment
-2. Building a model using Sagemaker
-3. (*) Deploying and using a model 
+
+# Deploying and using a model 
+
+## Date: May 30, 2021
+
    - 3.1 Building and Deploying the Model.
          IMDB Sentiment Analysis - XGBoost - Web App
          https://youtu.be/JCiQhhXbeuc
@@ -182,9 +184,6 @@ Request ID
      - Negative repsonse
  
      ![negative](webapp-negative.png)
- 
-4. Hypterparamter Tuning 
-5. Updating a model 
-6. Project-Deploy a sentiment analyzer model 
+
 
 
