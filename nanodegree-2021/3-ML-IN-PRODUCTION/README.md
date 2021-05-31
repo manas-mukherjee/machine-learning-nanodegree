@@ -174,7 +174,7 @@ Request ID
 
      - Negative repsonse
  
-     ![negative][webapp-negative.png)
+     ![negative](webapp-negative.png)
  
 4. Hypterparamter Tuning 
 5. Updating a model 
