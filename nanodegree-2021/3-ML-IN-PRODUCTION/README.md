@@ -5,6 +5,8 @@
          IMDB Sentiment Analysis - XGBoost - Web App
          https://youtu.be/JCiQhhXbeuc
    - 3.2 Building a lambda function. Ref: https://youtu.be/jOXETK4AerU 
+   
+   Notebook: [IMDB Sentiment Analysis - XGBoost - Web App](https://github.com/manas-mukherjee/machine-learning-nanodegree/blob/master/nanodegree-2021/3-ML-IN-PRODUCTION/sagemaker-deployment-master/Tutorials/IMDB%20Sentiment%20Analysis%20-%20XGBoost%20-%20Web%20App.ipynb)
 
 ```json 
 {
@@ -156,6 +158,11 @@ REPORT RequestId: 78f85e11-f7a2-4736-a0a1-acb303a702ae	Duration: 769.18 ms	Bille
 
 Request ID
 78f85e11-f7a2-4736-a0a1-acb303a702ae
+
+   - 3.3. Building an API using API Gateway. Ref: https://youtu.be/AzBQ-aDQSG4
+     API Gateway
+     ![API-Gateway](API-Gateway.png)
+     
 
 4. Hypterparamter Tuning 
 5. Updating a model 
