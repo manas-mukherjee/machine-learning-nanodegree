@@ -52,10 +52,60 @@ This mini-project notebook is called IMDB Sentiment Analysis - XGBoost (Updating
 
 https://youtu.be/75RxW3R6674
 
-### 6. Mini-Project: Exploring new data - Solution 
+### 7. Mini-Project: Exploring new data - Solution 
 
 https://youtu.be/sEBK1dmiUfE
 
 review: generator 
 
-[changed_word_dist](changed_word_dist.png)
+![changed_word_dist](changed_word_dist.png)
+
+### 8. Building a new model 
+
+https://youtu.be/RUVxrKcWAsU
+
+
+### 9. Sagemaker retrospective 
+
+https://youtu.be/Vdacqn_w-e4
+
+In this module we looked at various features offered by Amazon's SageMaker service. These features include the following.
+
+Notebook Instances provide a convenient place to process and explore data in addition to making it very easy to interact with the rest of SageMaker's features.
+
+Training Jobs allow us to create model artifacts by fitting various machine learning models to data.
+
+Hyperparameter Tuning allow us to create multiple training jobs each with different hyperparameters in order to find the hyperparameters that work best for a given problem.
+
+Models are essentially a combination of model artifacts formed during a training job and an associated docker container (code) that is used to perform inference.
+
+Endpoint Configurations act as blueprints for endpoints. They describe what sort of resources should be used when an endpoint is constructed along with which models should be used and, if multiple models are to be used, how the incoming data should be split up among the various models.
+
+Endpoints are the actual HTTP URLs that are created by SageMaker and which have properties specified by their associated endpoint configurations. Have you shut down your endpoints?
+
+Batch Transform is the method by which you can perform inference on a whole bunch of data at once. In contrast, setting up an endpoint allows you to perform inference on small amounts of data by sending it do the endpoint bit by bit.
+
+In addition to the features provided by SageMaker we used three other Amazon services.
+
+In particular, we used S3 as a central repository in which to store our data. This included test / training / validation data as well as model artifacts that we created during training.
+
+We also looked at how we could combine a deployed SageMaker endpoint with Lambda and API Gateway to create our own simple web app.
+
+### 10. Cleanup your account
+
+https://youtu.be/8z24cb3EfMc
+
+### 11. Sagemaker Tips and Tricks
+
+https://youtu.be/ilnX9rUlV_w
+
+Developer Documentation can be found here: https://docs.aws.amazon.com/sagemaker/latest/dg/
+
+Python SDK Documentation (also known as the high level approach) can be found here: https://sagemaker.readthedocs.io/en/latest/
+
+Python SDK Code can be found on github here: https://github.com/aws/sagemaker-python-sdk
+
+
+
+
+
