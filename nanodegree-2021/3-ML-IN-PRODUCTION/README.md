@@ -159,11 +159,21 @@ REPORT RequestId: 78f85e11-f7a2-4736-a0a1-acb303a702ae	Duration: 769.18 ms	Bille
 Request ID
 78f85e11-f7a2-4736-a0a1-acb303a702ae
 
-   - 3.3. Building an API using API Gateway. Ref: https://youtu.be/AzBQ-aDQSG4
+   - 3.3 Building an API using API Gateway. Ref: https://youtu.be/AzBQ-aDQSG4
      API Gateway
      ![API-Gateway](API-Gateway.png)
      
+     POST Endpoint: https://dduj3f5sr4.execute-api.us-east-1.amazonaws.com/prod
+   
+   - 3.4 Launch the webapp  
+     WebApp: [index.html](https://github.com/manas-mukherjee/machine-learning-nanodegree/blob/master/nanodegree-2021/3-ML-IN-PRODUCTION/sagemaker-deployment-master/Tutorials/index.html)
+     
+     - Positive response 
+     ![positive](webapp-positive.png)
 
+     - Negative repsonse
+     ![negative][webapp-negative.png)
+ 
 4. Hypterparamter Tuning 
 5. Updating a model 
 6. Project-Deploy a sentiment analyzer model 
