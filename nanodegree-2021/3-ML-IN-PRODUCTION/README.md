@@ -171,7 +171,8 @@ Request ID
      
      POST Endpoint: https://dduj3f5sr4.execute-api.us-east-1.amazonaws.com/prod
    
-   - 3.4 Launch the webapp  
+   - 3.4 Launch the webapp. Ref: https://youtu.be/VgG41Q_a15I
+  
      WebApp: [index.html](https://github.com/manas-mukherjee/machine-learning-nanodegree/blob/master/nanodegree-2021/3-ML-IN-PRODUCTION/sagemaker-deployment-master/Tutorials/index.html)
      
      - Positive response 
