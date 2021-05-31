@@ -8,6 +8,12 @@
    
    Notebook: [IMDB Sentiment Analysis - XGBoost - Web App](https://github.com/manas-mukherjee/machine-learning-nanodegree/blob/master/nanodegree-2021/3-ML-IN-PRODUCTION/sagemaker-deployment-master/Tutorials/IMDB%20Sentiment%20Analysis%20-%20XGBoost%20-%20Web%20App.ipynb)
 
+   Lambda: [sentiment_lambda_function.py](sentiment_lambda_function.py)
+   
+   PN: It needs a role which FullSagemaker access.
+
+Request payload:
+
 ```json 
 {
   "body": "This is an excellent movie. I will encourage everyone to see it",
