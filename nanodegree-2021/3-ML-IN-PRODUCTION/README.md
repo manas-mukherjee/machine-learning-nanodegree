@@ -5,7 +5,8 @@
          IMDB Sentiment Analysis - XGBoost - Web App
          https://youtu.be/JCiQhhXbeuc
    - 3.2 Building a lambda function. Ref: https://youtu.be/jOXETK4AerU 
-         ```json 
+
+```json 
 {
   "body": "This is an excellent movie. I will encourage everyone to see it",
   "resource": "/{proxy+}",
@@ -130,6 +131,32 @@
   }
 }
 ``` 
+
+Response:
+
+
+Test Event Name
+testevent
+
+Response
+```json
+{
+  "statusCode": 200,
+  "headers": {
+    "Content-Type": "text/plain",
+    "Access-Control-Allow-Origin": "*"
+  },
+  "body": "0"
+}
+```
+Function Logs
+START RequestId: 78f85e11-f7a2-4736-a0a1-acb303a702ae Version: $LATEST
+END RequestId: 78f85e11-f7a2-4736-a0a1-acb303a702ae
+REPORT RequestId: 78f85e11-f7a2-4736-a0a1-acb303a702ae	Duration: 769.18 ms	Billed Duration: 770 ms	Memory Size: 128 MB	Max Memory Used: 74 MB
+
+Request ID
+78f85e11-f7a2-4736-a0a1-acb303a702ae
+
 4. Hypterparamter Tuning 
 5. Updating a model 
 6. Project-Deploy a sentiment analyzer model 
